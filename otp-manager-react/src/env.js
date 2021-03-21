@@ -1,3 +1,3 @@
-const baseUrl = 'http://localhost:3002/';
+const baseUrl = 'https://otp-manager-react.herokuapp.com/';
 
 export default baseUrl;

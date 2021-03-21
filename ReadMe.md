@@ -5,6 +5,10 @@
 
 [![NPM](https://img.shields.io/npm/v/otp-manager-react.svg)](https://www.npmjs.com/package/otp-manager-react) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+## NPM Package Link
+
+https://www.npmjs.com/package/otp-manager-react
+
 ## Install
 
 ```bash
