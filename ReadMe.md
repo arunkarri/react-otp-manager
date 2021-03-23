@@ -1,5 +1,9 @@
 # otp-manager-react
 
+> This is the backend code of the project
+
+
+
 > A highly customizable and easy to use OTP Generator and verifier in React JS. Just import the library and send your inputs. It will generate the OTP, send to backend, and verify it once submitted.
 > The OTP Expires in 5 mins. Will customise this in future if required.
 
